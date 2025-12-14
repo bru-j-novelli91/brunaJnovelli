@@ -53,9 +53,9 @@
 
 
 <div> 
-  <img align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudioOliveira89&theme=github_dark&" />
-    <img  align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudioOliveira89&theme=github_dark" />
-  <img align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudioOliveira89&theme=github_dark" />
+  <img align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bru-j-novelli91&theme=github_dark&" />
+    <img  align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bru-j-novelli91&theme=github_dark" />
+  <img align="center" width="279" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bru-j-novelli91&theme=github_dark" />
 </div>
 
 
